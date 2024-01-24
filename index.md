@@ -14,15 +14,17 @@
 
 - 2016.9 - 2018.12，国防科技大学，计算机科学与技术，硕士
 
-- 2019.3 - 今，国防科技大学，计算机科学与技术，博士在读
+- 2019.3 - 2022.6，国防科技大学，计算机科学与技术，博士在读
+
+- 2022.6 - 今，国防科技大学计算机学院，助理研究员
 
 ### 研究反向
 
-漏洞挖掘，模糊测试
+漏洞挖掘，模糊测试，高性能计算
 
 ### 论文发表
 
-- **Zhang G**, Wang P F, Yue T, et al. MobFuzz: Adaptive Multi-objective Optimization in Grey-box Fuzzing[C]//Network and Distributed Systems Security (NDSS) Symposium 2022.（录取率14%）
+- **Zhang G**, Wang P F, Yue T, et al. [MobFuzz: Adaptive Multi-objective Optimization in Grey-box Fuzzing](https://github.com/zhanggenex/zhanggenex.github.io/blob/main/MobFuzz.pdf)[C]//Network and Distributed Systems Security (NDSS) Symposium 2022.（CCF A类会议，录取率14%）
 
 - **Zhang G**, Wang P F, Yue T, et al. [MEBS: Uncovering Memory Life-Cycle Bugs in Operating System Kernels](https://link.springer.com/content/pdf/10.1007%2Fs11390-021-1593-4.pdf)[J]. Journal of Computer Science and Technology, 2021, 36(6): 1248-1268.（CCF B类期刊）
 
