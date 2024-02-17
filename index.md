@@ -1,8 +1,8 @@
-## 张根
+## 张根 Gen Zhang
 
 助理研究员
 
-国防科技大学计算机学院
+国防科技大学计算机学院 National University of Defense Technology (NUDT)
 
 地址：湖南省长沙市开福区德雅路109号
 
@@ -20,7 +20,7 @@
 
 ### 研究反向
 
-漏洞挖掘，模糊测试，高性能计算
+漏洞挖掘，模糊测试，高性能计算 security, fuzzing, HPC, storage
 
 ### 论文发表
 
