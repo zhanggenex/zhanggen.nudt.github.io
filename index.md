@@ -1,4 +1,4 @@
-## 张根 Gen Zhang's Homepage
+## 张根 Gen Zhang's Homepage (NUDT)
 
 助理研究员
 
@@ -18,11 +18,11 @@
 
 - 2022.6 - 今，国防科技大学计算机学院，助理研究员
 
-### 研究反向
+### 研究反向 Research Interests
 
 漏洞挖掘，模糊测试，高性能存储 security, fuzzing, HPC, storage
 
-### 论文发表
+### 论文发表 Publications
 
 - **Zhang G**, Wang P F, Yue T, et al. [Instiller: Towards Efficient and Realistic RTL Fuzzing](https://arxiv.org/pdf/2401.15967.pdf)[J]//IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2024.（CCF A类期刊）
 
@@ -32,6 +32,6 @@
 
 - **Zhang G**, Wang P F, Yue T, et al. [MEBS: Uncovering Memory Life-Cycle Bugs in Operating System Kernels](https://link.springer.com/content/pdf/10.1007%2Fs11390-021-1593-4.pdf)[J]. Journal of Computer Science and Technology, 2021, 36(6): 1248-1268.（CCF B类期刊）
 
-### 科研项目
+### 科研项目 Projects
 
 - [PTFuzzer：基于处理器硬件追踪指导的模糊测试技术](https://github.com/hunter-ht-2018/ptfuzzer)
