@@ -1,4 +1,6 @@
-## 张根 Gen Zhang's Homepage (NUDT)
+## Gen Zhang's Homepage (NUDT)
+
+张根
 
 助理研究员
 
