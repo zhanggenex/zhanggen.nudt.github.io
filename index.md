@@ -60,4 +60,4 @@ e.g., distributed FS security and bug detection, etc.
 
 - Liu D, Wang P, Zhou X, **Zhang G**, et al. From release to rebirth: Exploiting thanos objects in Linux kernel[J]. IEEE Transactions on Information Forensics and Security, 2022, 18: 533-548. (CCF A)
 
-- Lin P, Wang P, Zhou X, **Zhang G**, et al. HyperGo: Probability-based Directed Hybrid Fuzzing[J]. Computers & Security, 2024: 103851.
+- Lin P, Wang P, Zhou X, **Zhang G**, et al. HyperGo: Probability-based Directed Hybrid Fuzzing[J]. Computers & Security, 2024: 103851. (CCF B)
