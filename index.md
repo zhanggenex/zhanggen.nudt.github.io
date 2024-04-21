@@ -36,9 +36,14 @@ zhanggen@nudt.edu.cn
 Security, Fuzzing, HPC, Storage
 
 ```
-My focus is on traditional computer security, e.g., hardware and software fuzzing, system security, etc.
-I also conduct research in HPC and storage, e.g., BeeGFS, NVMeoF, etc.
-The cross fields of security and HPC are my additional interests, e.g., distributed file system security and bug detection, etc.
+My focus is on traditional computer security,
+e.g., hardware and software fuzzing, system security, etc.
+
+I also conduct research in HPC and storage,
+e.g., BeeGFS, NVMeoF, etc.
+
+The cross fields of security and HPC are my additional interests,
+e.g., distributed file system security and bug detection, etc.
 ```
 
 ### 论文发表 Publications
