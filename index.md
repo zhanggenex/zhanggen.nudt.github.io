@@ -1,6 +1,6 @@
 ## Gen Zhang's Homepage (NUDT)
 
-![ ]([https://github.com/zhanggenex/zhanggen.nudt.github.io/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240516103727.jpg](https://www.gitlink.org.cn/api/zhanggennudt/pic/raw/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240516103727.jpg?ref=master))
+![ ](https://www.gitlink.org.cn/api/zhanggennudt/pic/raw/github.jpg?ref=master)
 
 张根/助理研究员/国防科技大学计算机学院
 
