@@ -15,7 +15,7 @@ National University of Defense Technology (NUDT)
 zhanggen@nudt.edu.cn
 
 ### News!!!
-- 2025.5：Not All Paths Are Equal: Multi-path Optimization for Directed Hybrid Fuzzing. Accepted in ACM Transactions on Software Engineering and Methodology (TOSEM).
+- 2025.5：Not All Paths Are Equal: Multi-path Optimization for Directed Hybrid Fuzzing. Accepted in ACM Transactions on Software Engineering and Methodology (TOSEM, CCF A).
 
 - 2024.4: Lin P, Wang P, Zhou X, **Zhang G**, et al. [HyperGo: Probability-based Directed Hybrid Fuzzing](https://arxiv.org/pdf/2307.07815)[J]. Computers & Security, 2024: 103851. (CCF B)
 
