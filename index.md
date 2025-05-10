@@ -15,6 +15,7 @@ National University of Defense Technology (NUDT)
 zhanggen@nudt.edu.cn
 
 ### News!!!
+- 2025.5：Not All Paths Are Equal: Multi-path Optimization for Directed Hybrid Fuzzing. Accepted in ACM Transactions on Software Engineering and Methodology (TOSEM).
 
 - 2024.4: Lin P, Wang P, Zhou X, **Zhang G**, et al. [HyperGo: Probability-based Directed Hybrid Fuzzing](https://arxiv.org/pdf/2307.07815)[J]. Computers & Security, 2024: 103851. (CCF B)
 
@@ -30,7 +31,7 @@ zhanggen@nudt.edu.cn
 
 - 2021.11: **Zhang G**, Wang P F, Yue T, et al. [MEBS: Uncovering Memory Life-Cycle Bugs in Operating System Kernels](https://link.springer.com/content/pdf/10.1007%2Fs11390-021-1593-4.pdf)[J]. Journal of Computer Science and Technology, 2021, 36(6): 1248-1268. (CCF B)
 
-### 研究反向 Research Interests
+### 研究方向 Research Interests
 
 漏洞挖掘，模糊测试，高性能存储
 
