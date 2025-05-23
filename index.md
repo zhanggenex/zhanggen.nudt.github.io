@@ -44,6 +44,8 @@ HPC, Storage, Security, Fuzzing,
 
 - 2012.9 - 2016.6, NUDT, Bachelor of Computer Science
 
+- 2016.1 - 2016.6, UTS, Excellent Undergraduate International Exchange Program (CSC)
+
 - 2016.9 - 2018.12, NUDT, Master of Computer Science
 
 - 2019.3 - 2022.6, NUDT, Docotr of Computer Science
