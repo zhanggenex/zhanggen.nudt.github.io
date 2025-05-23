@@ -10,7 +10,8 @@ National University of Defense Technology (NUDT)
 
 zhanggen@nudt.edu.cn
 
-### Publications
+### Publications (selected)
+
 - 2025.5：Not All Paths Are Equal: Multi-path Optimization for Directed Hybrid Fuzzing. Accepted in ACM Transactions on Software Engineering and Methodology (TOSEM, CCF A).
 
 - 2025.1: [《安全协议原理与验证（第二版）》](https://www.buptpress.com/bookimages/10409.jpg)（学术专著，副主编）.
@@ -33,23 +34,18 @@ zhanggen@nudt.edu.cn
 
 HPC, Storage, Security, Fuzzing, 
 
-```
-I conduct research in HPC and storage,
-e.g., BeeGFS, NVMeoF, etc.
+- I conduct research in HPC and storage, e.g., BeeGFS, NVMeoF, etc.
 
-My focus is also on traditional computer security,
-e.g., hardware and software fuzzing, system security, etc.
+- My focus is also on traditional computer security, e.g., hardware and software fuzzing, system security, etc.
 
-The cross fields of security and HPC are my interests,
-e.g., distributed FS security and bug detection, etc.
-```
+- The cross fields of security and HPC are my interests, e.g., distributed FS security and bug detection, etc.
 
 ### Education
 
-- 2012.9 - 2016.6，国防科学技术大学，学士 NUDT, Bachelor of Computer Science
+- 2012.9 - 2016.6, NUDT, Bachelor of Computer Science
 
-- 2016.9 - 2018.12，国防科技大学，硕士 NUDT, Master of Computer Science
+- 2016.9 - 2018.12, NUDT, Master of Computer Science
 
-- 2019.3 - 2022.6，国防科技大学，博士 NUDT, Docotr of Computer Science
+- 2019.3 - 2022.6, NUDT, Docotr of Computer Science
 
-- 2022.6 - ，国防科技大学计算机学院，助理研究员 NUDT, Assistant Professor
+- 2022.6 - now, NUDT, Assistant Professor
