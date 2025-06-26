@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a motivated researcher in high performance computing and security. My research interests include HPC, storage, software security, testing, etc.
+Currently an assistant researcher in College of Computer, National University of Defense Technology. I am a motivated researcher in high performance computing and security. My research interests include **HPC, storage, software security, testing**, etc.
 
 A data-driven personal website
 ======
