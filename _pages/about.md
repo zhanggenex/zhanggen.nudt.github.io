@@ -25,7 +25,7 @@ Publications (selected)
 
 - 2024.1: **Zhang G**, Wang P F, Yue T, et al. [Instiller: Towards Efficient and Realistic RTL Fuzzing](https://arxiv.org/pdf/2401.15967.pdf)[J]. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2024. (CCF A)
 
-- 2022.12: Liu D, Wang P, Zhou X, **Zhang G**, et al. [From release to rebirth: Exploiting thanos objects in Linux kernel](https://ieeexplore.ieee.org/abstract/document/9970376)[J]. IEEE Transactions on Information Forensics and Security, 2022, 18: 533-548. (CCF A)
+- 2023.6: Liu D, Wang P, Zhou X, **Zhang G**, et al. [From release to rebirth: Exploiting thanos objects in Linux kernel](https://ieeexplore.ieee.org/abstract/document/9970376)[J]. IEEE Transactions on Information Forensics and Security, 2023, 18: 533-548. (CCF A)
 
 - 2022.4: **Zhang G**, Wang P F, Yue T, et al. [MobFuzz: Adaptive Multi-objective Optimization in Grey-box Fuzzing](https://arxiv.org/pdf/2401.15956.pdf)[C]. Network and Distributed Systems Security (NDSS) Symposium 2022. (CCF A，14%)
 
@@ -33,14 +33,16 @@ Publications (selected)
 
 - 2021.11: **Zhang G**, Wang P F, Yue T, et al. [MEBS: Uncovering Memory Life-Cycle Bugs in Operating System Kernels](https://link.springer.com/content/pdf/10.1007%2Fs11390-021-1593-4.pdf)[J]. Journal of Computer Science and Technology, 2021, 36(6): 1248-1268. (CCF B)
 
-Services and talks
+Services and talks (selected)
 ======
-- 2025.8: [Invited talk in HPC China 2025](https://ccf.org.cn/hpcchina2025/schedule_d_2011).
+- 2025.8: HPC China 2025 [invited talk](https://ccf.org.cn/hpcchina2025/schedule_d_2011).
 - 2025.6: FAST 2026 (CCF A) [Program Committee](https://gitlab.com/zhanggenex/pic/-/raw/main/Fast2026-Program-Committee.png).
-- 
+- 2022.4: NDSS 2022 (CCF A) [presentation](https://www.bilibili.com/video/BV1vY4y1h7kK/?spm_id_from=333.1387.list.card_archive.click&vd_source=404205deed301ce4d0ed5bb3827aa976)
 
-Awards
+Awards (selected)
 ======
+- 2024.8: [Outstanding Doctoral Dissertation in Hunan Province in 2024](https://gitlab.com/zhanggenex/pic/-/raw/main/outstanding__doctor.png)
 
 Vulnerabilities
 ======
+- [List of detected vulnerabilities](https://gitlab.com/zhanggenex/pic/-/raw/main/bug.png)
