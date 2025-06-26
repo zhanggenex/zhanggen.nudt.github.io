@@ -32,7 +32,7 @@ author:
   email            : "zhanggen@nudt.edu.cn" 
 
   # Academic websites
-  academia         : "https://dblp.uni-trier.de/pid/210/5280.html"
+  DBLP         : "https://dblp.uni-trier.de/pid/210/5280.html"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?user=sTkirU0AAAAJ&hl=zh-CN"
   impactstory      : # URL
