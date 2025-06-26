@@ -35,7 +35,7 @@ Publications (selected)
 
 Services and talks
 ======
-- 2025.6: FAST 2026 (CCF A) [Program Committee](../images/Fast2026 Program Committee.png).
+- 2025.6: FAST 2026 (CCF A) [Program Committee](../images/Fast2026-Program-Committee.png).
 - 
 
 Awards
