@@ -37,7 +37,7 @@ Services and talks (selected)
 ======
 - 2025.8: HPC China 2025 [invited talk](https://ccf.org.cn/hpcchina2025/schedule_d_2011) about HPC storage in an AI era.
 - 2025.6: FAST 2026 (CCF A) [program committee](https://gitlab.com/zhanggenex/pic/-/raw/main/Fast2026-Program-Committee.png).
-- 2022.4: NDSS 2022 (CCF A) [presentation](https://www.bilibili.com/video/BV1vY4y1h7kK/?spm_id_from=333.1387.list.card_archive.click&vd_source=404205deed301ce4d0ed5bb3827aa976) about advanced the software testing approach MobFuzz.
+- 2022.4: NDSS 2022 (CCF A) [presentation](https://www.bilibili.com/video/BV1vY4y1h7kK/?spm_id_from=333.1387.list.card_archive.click&vd_source=404205deed301ce4d0ed5bb3827aa976) about the advanced software testing approach MobFuzz.
 
 Awards (selected)
 ======
