@@ -35,6 +35,7 @@ Publications (selected)
 
 Services and talks
 ======
+- 2025.8: [Invited talk in HPC China 2025](https://ccf.org.cn/hpcchina2025/schedule_d_2011).
 - 2025.6: FAST 2026 (CCF A) [Program Committee](https://github.com/zhanggenex/zhanggen.nudt.github.io/blob/master/images/Fast2026-Program-Committee.png).
 - 
 
