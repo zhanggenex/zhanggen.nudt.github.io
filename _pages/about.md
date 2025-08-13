@@ -17,7 +17,7 @@ Publications (selected)
 
 - 2025.5: ASC-Hook: Efficient System Call Interception for ARM. Accepted in the 26th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES 2025, CCF B).
 
-- 2025.5：Not All Paths Are Equal: Multi-path Optimization for Directed Hybrid Fuzzing. Accepted in ACM Transactions on Software Engineering and Methodology (TOSEM, CCF A).
+- 2025.5: Not All Paths Are Equal: Multi-path Optimization for Directed Hybrid Fuzzing. Accepted in ACM Transactions on Software Engineering and Methodology (TOSEM, CCF A).
 
 - 2025.1: [《安全协议原理与验证（第二版）》](https://www.buptpress.com/bookimages/10409.jpg)（学术专著，副主编）.
 
