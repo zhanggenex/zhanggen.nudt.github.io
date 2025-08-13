@@ -11,6 +11,8 @@ Currently an assistant researcher in College of Computer, National University of
 
 Publications (selected)
 ======
+- 2025.8: Deadline-Aware Data-Credit-Coupled Transmission for Data Centers. Accepted in IEEE Internet of Things Journal (IoT, CCF B).
+
 - 2025.5: Efficient Forward-Edge Control-Flow Integrity for COTS Binaries via Arm BTI. Accepted in IEEE Transactions on Information Forensics & Security (TIFS, CCF A).
 
 - 2025.5: ASC-Hook: Efficient System Call Interception for ARM. Accepted in the 26th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES 2025, CCF B).
