@@ -11,7 +11,9 @@ Currently an assistant researcher in College of Computer, National University of
 
 Publications (selected)
 ======
-- 2025.10: PORTRUSH: Detect Write Port Contention Side-Channel Vulnerabilities via Hardware Fuzzing. Accepted Network and Distributed Systems Security (NDSS) Symposium 2026 (CCF A).
+- 2025.12: Survey of storage systems in high performance computing. Accepted in CCF Transactions on High Performance Computing (CCF C).
+
+- 2025.10: PORTRUSH: Detect Write Port Contention Side-Channel Vulnerabilities via Hardware Fuzzing. Accepted in Network and Distributed Systems Security (NDSS) Symposium 2026 (CCF A).
 
 - 2025.8: Deadline-Aware Data-Credit-Coupled Transmission for Data Centers. Accepted in IEEE Internet of Things Journal (IoT, CCF B).
 
