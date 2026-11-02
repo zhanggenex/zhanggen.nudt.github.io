@@ -11,7 +11,15 @@ Currently an assistant researcher in College of Computer, National University of
 
 Publications (selected)
 ======
+- 2026.10: **Zhang, G.**, Huang, S. et al. (2026). Mobfuzz: Adaptive multi-objective optimization in gray-box fuzzing (extended). *International Journal of Intelligent Systems*, *2026*(1), 3696726. (Tier-2, 二区).
+
+- 2026.7: Huang, S., Hu, D., **Zhang, G.**, Zeng, L., Zhang, K., & Fan, Q. (2026, July). Adapting to Fair Coexistence of Heterogeneous Transport-Protocol Traffic for Cloud Centers. In 2026 IEEE International Conference on Joint Cloud Computing (JCC) (pp. 193-200). IEEE. (CCF C).
+
+- 2026.3: Liu, Y., Chen, X., **Zhang, G.**, Zhang, Q., Wang, Q., & Liu, J. (2026). SSFDiffusion: A Degradation-Aware Diffusion Model for Ocean Sound Speed Field Super-Resolution. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, *19*, 12222-12233. (Tier-1, 一区).
+
 - 2025.12: **Zhang, G.**, Song, Z., Zhang, W., Chen, X., Huang, S., & Dong, Y. (2025). Survey of storage systems in high performance computing. *CCF Transactions on High Performance Computing*, 1-21. (CCF C).
+
+- 2025.11: Liu, Y., Chen, X., **Zhang, G.**, Zhang, Q., Wang, Q., & Liu, J. (2025). HADF: a hash-adaptive dual fusion implicit network for super-resolution of turbulent flows. Frontiers of Information Technology & Electronic Engineering, 26(11), 2159-2175. (Tier-2, 二区).
 
 - 2025.10: Lin, P., Wang, P., Zhou, L., **Zhang, G.**, Zhou, X., Xie, W., ... & Lu, K. PORTRUSH: Detect Write Port Contention Side-Channel Vulnerabilities via Hardware Fuzzing. Network and Distributed Systems Security (NDSS) Symposium 2026 (CCF A).
 
